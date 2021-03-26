@@ -1,6 +1,4 @@
-# hello.py
-print("Hello world!")
-
+# 기본 출력
 a = 2
 
 b = 3
